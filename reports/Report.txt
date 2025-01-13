@@ -1,3 +1,0 @@
-
-El siguiente conjunto de datos se trata de un csv compuesto por 18 variables (columnas) y 27901 filas, de las cuales no hay jerarquías ni estructuras anidadas extraido de  
-datos han sido extraidos de 
